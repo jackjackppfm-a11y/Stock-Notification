@@ -3,10 +3,10 @@ import pandas as pd
 import requests
 from ta.momentum import RSIIndicator
 
-Discord Webhook URL
+#Discord Webhook URL
 WEBHOOK_URL = "ここにWebhook URL"
 
-監視銘柄
+#監視銘柄
 stocks = [
     "IONQ",
     "RGTI",
