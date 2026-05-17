@@ -16,4 +16,4 @@ jobs:
 
       - run: pip install requests
 
-      - run: python Notify_kabu_test.py
+      - run: python Notify_kabu.py
