@@ -14,6 +14,6 @@ jobs:
         with:
           python-version: '3.12'
 
-      - run: pip install requests
+      - run: pip install yfinance requests
 
       - run: python Notify_kabu.py
